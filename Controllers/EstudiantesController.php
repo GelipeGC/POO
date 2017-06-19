@@ -3,12 +3,12 @@
 	/**
 	* 
 	*/
-	class SeccionController
+	class EstudiantesController
 	{
 		
 		public function index()
 		{
-			print "soy el index del seccion";
+			print "soy el index";
 		}
 	}
 
